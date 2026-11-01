@@ -1,0 +1,92 @@
+# Don't Boil the Water: The Weekend Toledo's Taps Turned Toxic
+
+Sources and picture credits for Cracked Buckeye's film.
+
+## Sources
+
+- McKindles et al., Dissolved Microcystin Release Coincident with Lysis of a Bloom Dominated by Microcystis spp. in Western Lake Erie Attributed to a Novel Cyanophage, Applied and Environmental Microbiology (2020), https://doi.org/10.1128/AEM.01397-20
+- Ohio 2018 Integrated Water Quality Monitoring and Assessment Report, Ohio EPA, https://epa.ohio.gov/divisions-and-offices/surface-water/reports-data/ohio-integrated-water-quality-monitoring-and-assessment-report
+- Sub. S.B. 1, 131st General Assembly (2015), as enrolled, https://search-prod.lis.state.oh.us/api/v2/general_assembly_131/legislation/sb1/05_EN/pdf/
+- Canada and United States adopt phosphorus load reduction targets, binational.net, Feb. 22, 2016, https://binational.net/2016/02/22/finalptargets-ciblesfinalesdep/
+- City of Toledo Drinking Water Advisory and Ohio EPA Response to Harmful Algal Blooms (Ohio EPA, Great Lakes Commission, Sept. 30, 2014), https://www.glc.org/wp-content/uploads/2016/10/2014-glc-annmtg-Gebhardt-HABDrinkingWaterLakeErie.pdf
+- Heather Raymond, Ohio EPA's Experience with Harmful Algal Blooms at Public Water Systems (2016), U.S. EPA archive, https://19january2021snapshot.epa.gov/sites/static/files/2016-05/documents/region5-ohio-hab-experience-public-water.pdf
+- Community Needs Assessment After Microcystin Toxin Contamination of a Municipal Water Supply, Lucas County, Ohio, September 2014, CDC MMWR 65(35), https://www.cdc.gov/mmwr/volumes/65/wr/mm6535a1.htm
+- CASPER Report, Toledo-Lucas County Health Department, Ohio Department of Health and CDC (2014), http://storage.cloversites.com/toledolucascountyhealthdepartment/documents/CASPER%20Report_2.pdf
+- Cyanotoxins in Drinking Water, House Energy and Commerce hearing, Nov. 19, 2014, Serial No. 113-181, GovInfo, https://www.govinfo.gov/content/pkg/CHRG-113hhrg93990/html/CHRG-113hhrg93990.htm
+- Testimony of Craig W. Butler, Ohio EPA, Nov. 19, 2014, U.S. House, https://docs.house.gov/meetings/IF/IF18/20141119/102747/HHRG-113-IF18-Wstate-ButlerC-20141119.pdf
+- Drinking Water Health Advisory for the Cyanobacterial Microcystin Toxins, U.S. EPA (2015), https://www.epa.gov/sites/default/files/2017-06/documents/microcystins-report-2015.pdf
+- Experimental Lake Erie Harmful Algal Bloom Bulletins 09 and 10 (Aug. 1 and 4, 2014), NOAA, https://cdn.coastalscience.noaa.gov/hab-data/bulletins/lake-erie/2014/bulletin_2014-010.pdf
+- Lake Erie HAB severity index, 2000-2025 reprocessed series, NOAA NCCOS, https://nccospublicstor.blob.core.windows.net/hab-data/bulletins/lake-erie/2025/NOAA_NCCOS_2000to2025_Curated_LE_Annual_Severity.xlsx
+- Steffen et al., Ecophysiological Examination of the Lake Erie Microcystis Bloom in 2014, Environmental Science & Technology (2017), https://doi.org/10.1021/acs.est.7b00856
+- Ohio's 4th largest city has no drinking water, USA Today, Aug. 2, 2014, https://www.usatoday.com/story/news/nation/2014/08/02/toledo-ohio-water/13505697/
+- Ohio drinking water emergency 'not over yet', USA Today, Aug. 3, 2014, https://www.usatoday.com/story/news/nation/2014/08/03/toledo-toxins-water/13539145/
+- Henry Howe, Historical Collections of Ohio (1847), Internet Archive, https://archive.org/details/historicalcollec00howe_4
+- Daniel Drake, A Systematic Treatise on the Principal Diseases of the Interior Valley of North America (1850), Internet Archive, https://archive.org/details/systematictreat00drak
+- Reeves v. Treasurer of Wood County, 8 Ohio St. 333 (December term 1858, decided 1859), Caselaw Access Project, https://static.case.law/ohio-st/8/cases/0333-01.json
+- Ohio Laws vol. 56 (1859), county ditch act, Internet Archive, https://archive.org/details/actsstateohio97statgoog
+- Fourteenth Census of the United States (1920), vol. VII, Drainage: Ohio, U.S. Census Bureau, https://www2.census.gov/library/publications/decennial/1920/volume-7/06229676v7ch6.pdf
+- Buckeye Steam Traction Ditcher, ASME Landmark brochure (1988), https://www.asme.org/wwwasmeorg/media/ResourceFiles/AboutASME/Who%20We%20Are/Engineering%20History/Landmarks/133-Buckeye-Steam-Traction-Ditcher.pdf
+- National Water Summary on Wetland Resources, USGS Water-Supply Paper 2425 (1996), https://pubs.usgs.gov/wsp/2425/report.pdf
+- Ohio Lake Erie Phosphorus Task Force, Final Report (2010), Ohio EPA, https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/35/lakeerie/ptaskforce/Task_Force_Final_Report_April_2010.pdf
+- King, Williams and Fausey, Contributions of systematic tile drainage to watershed-scale phosphorus transport, Journal of Environmental Quality (2015), https://pubmed.ncbi.nlm.nih.gov/26023967/
+- Jarvie et al., Increased Soluble Phosphorus Loads to Lake Erie: Unintended Consequences of Conservation Practices?, Journal of Environmental Quality (2017), https://pubmed.ncbi.nlm.nih.gov/28177409/
+- U.S. Action Plan for Lake Erie: 2025 Milestone Report, U.S. EPA (2026), https://www.epa.gov/system/files/documents/2026-06/lake_erie_dap_final-6-15-26.pdf
+- Drewes Farms P'ship v. City of Toledo, Order Invalidating Lake Erie Bill of Rights (2020), CourtListener, https://storage.courtlistener.com/recap/gov.uscourts.ohnd.251736/gov.uscourts.ohnd.251736.63.0.pdf
+- Ozone Treatment Begins at Collins Park Water Treatment Plant, City of Toledo (2021), https://toledo.oh.gov/news/2021/07/01/ozone-treatment-begins-at-collins-park-water-treatment-plant
+- Drinking Water Advisories: An Overview, CDC, https://www.cdc.gov/healthywater/emergency/drinking/drinking-water-advisories/
+- Testimony of Peter C. Grevatt, U.S. EPA, Nov. 19, 2014, https://www.epa.gov/sites/production/files/2015-08/documents/2014_11.19_hec_hearing_cyanotoxins_drinking_water_pgrevatt.pdf
+- Water safe to drink in Ohio's fourth-largest city, Associated Press via WTOP, Aug. 5, 2014, https://wtop.com/news/2014/08/water-safe-to-drink-in-ohios-fourth-largest-city/
+- Ohio National Guard members distribute water and food as Toledo area copes with 'do not drink' advisory, National Guard Bureau, Aug. 4, 2014, https://www.nationalguard.mil/News/Article-View/Article/576257/ohio-national-guard-members-distribute-water-and-food-as-toledo-area-copes-with/
+- Tom Troy, Mayor says water crisis is similar to 9/11, The Blade (Toledo), Aug. 19, 2014, https://www.toledoblade.com/Politics/2014/08/19/Mayor-says-water-crisis-is-similar-to-9-11
+- Incident Action Checklist - Harmful Algal Blooms (Carroll Township case study, source: Ohio EPA), U.S. EPA, https://www.epa.gov/sites/production/files/2017-11/documents/171030-incidentactionchecklist-hab-form_508c.pdf
+- Cyanobacterial toxins: Microcystin-LR in Drinking-water, World Health Organization, https://cdn.who.int/media/docs/default-source/wash-documents/wash-chemicals/cyanobactoxins.pdf
+- Learn about Cyanobacteria and Cyanotoxins, U.S. EPA, https://www.epa.gov/habs/learn-about-cyanobacteria-and-cyanotoxins
+- Lake Erie Historical Time Series: 2025 Update, NOAA NCCOS, https://cdn.coastalscience.noaa.gov/hab-data/bulletins/lake-erie/2025/HAB_LE_TimeseriesUpdate_2025.pdf
+- Recommended Phosphorus Loading Targets for Lake Erie, Annex 4 Objectives and Targets Task Team Final Report (2015), binational.net, https://binational.net/wp-content/uploads/2015/06/nutrients-TT-report-en-sm.pdf
+- Stumpf, Wynne, Baker and Fahnenstiel, Interannual variability of cyanobacterial blooms in Lake Erie, PLoS ONE (2012), https://doi.org/10.1371/journal.pone.0042444
+- Henry Howe, Historical Collections of Ohio, vol. 1 (1888-91), Internet Archive, https://archive.org/details/HistoricalCollectionsOfOhio1891V1
+- C. W. Evers, Many Incidents and Reminiscences of the Early History of Wood County (1910), Internet Archive, https://archive.org/details/manyincidentsrem00ever
+- M. A. Leeson, Commemorative Historical and Biographical Record of Wood County, Ohio (1897), Internet Archive, https://archive.org/details/commemorativehis00lees
+- Thomas Donaldson, The Public Domain (1884), Internet Archive, https://archive.org/details/publicdomainitsh00dona
+- Thirty-Fifth Annual Report of the Ohio State Board of Agriculture for 1880, Internet Archive, https://archive.org/details/annualreportofoh1880ohio
+- Frank C. Perkins, The Buckeye Traction Ditcher, Scientific American, Sept. 10, 1904, Internet Archive, https://archive.org/details/sim_scientific-american_1904-09-10_91_11
+- U.S. Patent 523,790, J. B. Hill, Traction Ditching-Machine (1894), Google Patents, https://patents.google.com/patent/US523790A/en
+- Ohio Administrative Code 3745-90-02, Harmful algal blooms - applicability and action levels, https://codes.ohio.gov/ohio-administrative-code/rule-3745-90-02
+- Official results, Feb. 26, 2019 special election, Lucas County Board of Elections, https://co.lucas.oh.us/DocumentCenter/View/73444/Official-Results-and-signature-form-2-26-19
+- Complaint, Board of Lucas County Commissioners, City of Toledo and ELPC v. U.S. EPA, No. 3:24-cv-00779 (N.D. Ohio, May 1, 2024), CourtListener, https://storage.courtlistener.com/recap/gov.uscourts.ohnd.306172/gov.uscourts.ohnd.306172.1.0.pdf
+
+## Pictures and film
+
+- U.S. Army / Staff Sgt. Nicholas Pavlik
+- NASA EOSDIS Worldview / GIBS
+- Library of Congress
+- Library of Congress (Locke & Trowbridge, 1888)
+- H.S. Tanner, 1827 (via Wikimedia Commons)
+- H.F. Walling, atlas of Ohio (via Wikimedia Commons)
+- Wikimedia Commons / GeoFAXsafety79, CC0
+- USDA NAIP / USGS
+- NASA Earth Observatory
+- NASA Glenn Research Center
+- NASA Goddard Space Flight Center
+- NASA
+- NASA TV, Aug. 2014
+- NOAA GLERL / A. Burtner, CILER
+- NOAA GLERL
+- NOAA GLERL / Aerial Associates Photography (Z. Haslick)
+- NOAA GLERL (via Wikimedia Commons, CC BY-SA 2.0)
+- NOAA CoastWatch / NASA MODIS
+- Ohio National Guard / Master Sgt. Beth Holliker
+- U.S. Patent and Trademark Office
+- Public domain, about 1870 (via Wikimedia Commons)
+- Digital Public Library of America (public domain)
+- Frank H. Reighard, A Standard History of Fulton County, Ohio (via Wikimedia Commons)
+- Wikimedia Commons / EdwinAmi, public domain
+- Wikimedia Commons / Mbrickn, CC BY-SA 4.0
+- Wikimedia Commons / David Wilson from Oak Park, Illinois, USA, CC BY 2.0
+- Wikimedia Commons / Mbrickn, CC BY 4.0
+- Wikimedia Commons / Nyttend, public domain
+- Scientific American, Sept. 10, 1904 (via Internet Archive)
+- U.S. Army Corps of Engineers
+- USDA NRCS
+- U.S. Fish and Wildlife Service
+- USGS The National Map (via Wikimedia Commons)
